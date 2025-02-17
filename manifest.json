@@ -1,0 +1,45 @@
+{
+  "name": "Ariez",
+  "short_name": "Ariez",
+  "start_url": "https://ariez.eu.org/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00a3fe",
+  "description": "Tempatnya Berbagi Seputar Pendidikan, Sejarah dan Informasi Menarik.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggck_5bHN6sq6AW4lPkQaVDVcE_WX2z2NjSzFSPJTzbBTDauVbsUrehdvzvYlSPHycRmG5BbWZjnmvghWT8HCjUqTVzSjunOYvYnVmTQ8Mt4i6tqr9epjWPgWH0jN5IPtCqcScpfWfvNW5XwAc11MHJqOxnscf03SkttcKVbqsKRALCXbodLt5oY9qUjfG/s1600/logo%20ariez.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggck_5bHN6sq6AW4lPkQaVDVcE_WX2z2NjSzFSPJTzbBTDauVbsUrehdvzvYlSPHycRmG5BbWZjnmvghWT8HCjUqTVzSjunOYvYnVmTQ8Mt4i6tqr9epjWPgWH0jN5IPtCqcScpfWfvNW5XwAc11MHJqOxnscf03SkttcKVbqsKRALCXbodLt5oY9qUjfG/s1600/logo%20ariez.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggck_5bHN6sq6AW4lPkQaVDVcE_WX2z2NjSzFSPJTzbBTDauVbsUrehdvzvYlSPHycRmG5BbWZjnmvghWT8HCjUqTVzSjunOYvYnVmTQ8Mt4i6tqr9epjWPgWH0jN5IPtCqcScpfWfvNW5XwAc11MHJqOxnscf03SkttcKVbqsKRALCXbodLt5oY9qUjfG/s1600/logo%20ariez.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggck_5bHN6sq6AW4lPkQaVDVcE_WX2z2NjSzFSPJTzbBTDauVbsUrehdvzvYlSPHycRmG5BbWZjnmvghWT8HCjUqTVzSjunOYvYnVmTQ8Mt4i6tqr9epjWPgWH0jN5IPtCqcScpfWfvNW5XwAc11MHJqOxnscf03SkttcKVbqsKRALCXbodLt5oY9qUjfG/s1600/logo%20ariez.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggck_5bHN6sq6AW4lPkQaVDVcE_WX2z2NjSzFSPJTzbBTDauVbsUrehdvzvYlSPHycRmG5BbWZjnmvghWT8HCjUqTVzSjunOYvYnVmTQ8Mt4i6tqr9epjWPgWH0jN5IPtCqcScpfWfvNW5XwAc11MHJqOxnscf03SkttcKVbqsKRALCXbodLt5oY9qUjfG/s1600/logo%20ariez.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggck_5bHN6sq6AW4lPkQaVDVcE_WX2z2NjSzFSPJTzbBTDauVbsUrehdvzvYlSPHycRmG5BbWZjnmvghWT8HCjUqTVzSjunOYvYnVmTQ8Mt4i6tqr9epjWPgWH0jN5IPtCqcScpfWfvNW5XwAc11MHJqOxnscf03SkttcKVbqsKRALCXbodLt5oY9qUjfG/s1600/logo%20ariez.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggck_5bHN6sq6AW4lPkQaVDVcE_WX2z2NjSzFSPJTzbBTDauVbsUrehdvzvYlSPHycRmG5BbWZjnmvghWT8HCjUqTVzSjunOYvYnVmTQ8Mt4i6tqr9epjWPgWH0jN5IPtCqcScpfWfvNW5XwAc11MHJqOxnscf03SkttcKVbqsKRALCXbodLt5oY9qUjfG/s1600/logo%20ariez.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
